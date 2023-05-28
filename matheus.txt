@@ -1,2 +1,6 @@
 oi
+<<<<<<< HEAD
 feito
+=======
+editei o arquivo
+>>>>>>> 84bf78cbcec82dc902f3cd2b9202f15bd9ee5ac9
